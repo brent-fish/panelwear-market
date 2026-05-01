@@ -1,0 +1,164 @@
+[
+  {
+    "id": "flesh-blood-tee",
+    "titleId": "flesh-and-blood",
+    "creatorId": "dauntless-stories",
+    "productName": "Eat My Flesh Tee",
+    "productType": "T-Shirt",
+    "price": 32,
+    "image": "assets/images/product-flesh-blood-tee.svg",
+    "tags": [
+      "horror",
+      "shirt",
+      "launch drop"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A black tee featuring the full Eat My Flesh, Drink My Blood cover treatment as a bold chest print."
+  },
+  {
+    "id": "flesh-blood-hoodie",
+    "titleId": "flesh-and-blood",
+    "creatorId": "dauntless-stories",
+    "productName": "Blood Oath Hoodie",
+    "productType": "Hoodie",
+    "price": 56,
+    "image": "assets/images/product-flesh-blood-hoodie.svg",
+    "tags": [
+      "horror",
+      "hoodie",
+      "premium"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A premium pullover hoodie built around the central horror iconography of the book."
+  },
+  {
+    "id": "flesh-blood-art-print",
+    "titleId": "flesh-and-blood",
+    "creatorId": "dauntless-stories",
+    "productName": "Eat My Flesh Art Print",
+    "productType": "Print",
+    "price": 24,
+    "image": "assets/images/product-flesh-blood-print.svg",
+    "tags": [
+      "horror",
+      "print",
+      "cover art"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A wall-ready art print version of the full cover image, made for fans who want the book’s visual identity off the shelf and on the wall."
+  },
+  {
+    "id": "neon-gutter-launch-tee",
+    "titleId": "neon-gutter",
+    "creatorId": "brian-level-studio",
+    "productName": "Issue #1 Launch Tee",
+    "productType": "T-Shirt",
+    "price": 32,
+    "image": "assets/images/product-neon-gutter-tee.svg",
+    "tags": [
+      "cyberpunk",
+      "crime",
+      "launch drop"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A bold launch tee built around the central logo treatment for Neon Gutter. Designed for fans who want the book’s world on their chest, not just a generic cover slapped on fabric."
+  },
+  {
+    "id": "void-saints-sticker-pack",
+    "titleId": "void-saints",
+    "creatorId": "black-lantern-press",
+    "productName": "Relic Sticker Pack",
+    "productType": "Sticker Pack",
+    "price": 12,
+    "image": "assets/images/product-void-saints-stickers.svg",
+    "tags": [
+      "space horror",
+      "stickers",
+      "low-cost"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A compact fan item built for low-friction buying, convention bundles, and reader rewards."
+  },
+  {
+    "id": "rattlebone-variant-print",
+    "titleId": "rattlebone-county",
+    "creatorId": "crowbar-comics",
+    "productName": "Variant Cover Print",
+    "productType": "Print",
+    "price": 26,
+    "image": "assets/images/product-rattlebone-print.svg",
+    "tags": [
+      "western horror",
+      "print",
+      "variant"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A collectible wall print built from existing cover art, ideal for creators who already have strong high-resolution assets."
+  },
+  {
+    "id": "signal-girls-broadcast-hoodie",
+    "titleId": "signal-girls",
+    "creatorId": "tiny-meteor-books",
+    "productName": "Broadcast Hoodie",
+    "productType": "Hoodie",
+    "price": 56,
+    "image": "assets/images/product-signal-girls-hoodie.svg",
+    "tags": [
+      "supernatural",
+      "hoodie",
+      "premium"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A premium hoodie concept for a title with strong symbols, recurring motifs, and a fanbase likely to buy wearable identity pieces."
+  },
+  {
+    "id": "iron-orchid-mecha-bloom-tee",
+    "titleId": "iron-orchid",
+    "creatorId": "tiny-meteor-books",
+    "productName": "Mecha Bloom Tee",
+    "productType": "T-Shirt",
+    "price": 31,
+    "image": "assets/images/product-iron-orchid-tee.svg",
+    "tags": [
+      "mecha",
+      "sci-fi",
+      "emblem"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A high-contrast emblem tee that shows how comic merch can use clean iconography instead of crowded full-cover reproduction."
+  },
+  {
+    "id": "grave-radio-transmission-print",
+    "titleId": "grave-radio",
+    "creatorId": "black-lantern-press",
+    "productName": "Midnight Transmission Print",
+    "productType": "Print",
+    "price": 24,
+    "image": "assets/images/product-grave-radio-print.svg",
+    "tags": [
+      "horror",
+      "poster",
+      "radio"
+    ],
+    "checkoutProvider": "placeholder",
+    "checkoutUrl": "#",
+    "status": "live",
+    "description": "A poster-style companion piece for readers who want the atmosphere of the book on the wall."
+  }
+]

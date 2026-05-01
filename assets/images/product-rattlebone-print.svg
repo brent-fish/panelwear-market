@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">ART PRINT</title>
+  <desc id="desc">Product mockup · 1:1</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.5" fill="#151118" opacity=".18"/>
+    </pattern>
+    <linearGradient id="wash" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff4f8b" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#24d6d0" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="#fff3df"/>
+  <rect width="1200" height="1200" fill="url(#dots)"/>
+  <path d="M0 864 C 264 696, 408 1056, 696 864 S 1032 624, 1200 792 L 1200 1200 L 0 1200 Z" fill="url(#wash)" opacity=".92"/>
+  <rect x="66" y="78" width="1068" height="1032" rx="42" fill="none" stroke="#151118" stroke-width="14"/>
+  <text x="600" y="564" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="126" fill="#151118" letter-spacing="-3">ART PRINT</text>
+  <text x="600" y="672" text-anchor="middle" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#151118">Product mockup · 1:1</text>
+  <text x="600" y="756" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#151118" opacity=".72">Replace this SVG with Canva export at same ratio</text>
+</svg>

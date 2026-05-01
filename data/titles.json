@@ -1,0 +1,86 @@
+[
+  {
+    "id": "flesh-and-blood",
+    "title": "Eat My Flesh, Drink My Blood",
+    "creatorId": "dauntless-stories",
+    "genre": "Horror",
+    "status": "Featured",
+    "coverImage": "assets/images/title-cover-flesh-and-blood.svg",
+    "bannerImage": "assets/images/title-banner-flesh-and-blood.svg",
+    "shortPitch": "An absurd romantic horror graphic novel from Dauntless Stories, built around devotion, family wounds, and the question of how far someone will go to be with the one they love.",
+    "description": "John and Lisa are engaged and looking toward their future when John receives a letter from his past. His estranged father is dying, and his mother wants him to meet with them both for mass at their parish. Lisa, curious about this mostly blank spot in her fiancé’s life, presses him to heal his family wounds. John agrees on one condition: Lisa must join him. What follows is an absurd romantic horror story about love, devotion, and the cost of staying together.",
+    "officialUrl": "https://dauntlessstories.com/emfdmb"
+  },
+  {
+    "id": "neon-gutter",
+    "title": "Neon Gutter",
+    "creatorId": "brian-level-studio",
+    "genre": "Cyberpunk Crime",
+    "status": "Live",
+    "coverImage": "assets/images/title-cover-neon-gutter.svg",
+    "bannerImage": "assets/images/title-banner-neon-gutter.svg",
+    "shortPitch": "A rain-soaked crime comic about old sins, new tech, and the people who survive between them.",
+    "description": "Neon Gutter gives the prototype a strong title-forward example: bold visual identity, clean merch iconography, and a drop that could naturally live beside a crowdfunding campaign or convention appearance.",
+    "officialUrl": "#"
+  },
+  {
+    "id": "void-saints",
+    "title": "Void Saints",
+    "creatorId": "black-lantern-press",
+    "genre": "Space Horror",
+    "status": "Live",
+    "coverImage": "assets/images/title-cover-void-saints.svg",
+    "bannerImage": "assets/images/title-banner-void-saints.svg",
+    "shortPitch": "A haunted pilgrimage through dead stars and impossible relics.",
+    "description": "Void Saints demonstrates lower-cost fan merch, such as stickers, sigils, patches, and compact impulse-buy items.",
+    "officialUrl": "#"
+  },
+  {
+    "id": "rattlebone-county",
+    "title": "Rattlebone County",
+    "creatorId": "crowbar-comics",
+    "genre": "Western Horror",
+    "status": "Live",
+    "coverImage": "assets/images/title-cover-rattlebone.svg",
+    "bannerImage": "assets/images/title-banner-rattlebone.svg",
+    "shortPitch": "A cursed frontier county where every debt comes due.",
+    "description": "Rattlebone County is a good model for print/poster merch where the cover art and setting already have collectible appeal.",
+    "officialUrl": "#"
+  },
+  {
+    "id": "signal-girls",
+    "title": "Signal Girls",
+    "creatorId": "tiny-meteor-books",
+    "genre": "Supernatural Mystery",
+    "status": "Coming Soon",
+    "coverImage": "assets/images/title-cover-signal-girls.svg",
+    "bannerImage": "assets/images/title-banner-signal-girls.svg",
+    "shortPitch": "Four friends tune into a station that should not exist.",
+    "description": "Signal Girls demonstrates premium apparel and recurring symbol-based merch.",
+    "officialUrl": "#"
+  },
+  {
+    "id": "iron-orchid",
+    "title": "Iron Orchid",
+    "creatorId": "tiny-meteor-books",
+    "genre": "Mecha Sci-Fi",
+    "status": "Live",
+    "coverImage": "assets/images/title-cover-iron-orchid.svg",
+    "bannerImage": "assets/images/title-banner-iron-orchid.svg",
+    "shortPitch": "Mechs, flowers, family oaths, and a war machine learning how to grieve.",
+    "description": "Iron Orchid demonstrates emblem-first apparel rather than cover-art-first apparel.",
+    "officialUrl": "#"
+  },
+  {
+    "id": "grave-radio",
+    "title": "Grave Radio",
+    "creatorId": "black-lantern-press",
+    "genre": "Analog Horror",
+    "status": "Live",
+    "coverImage": "assets/images/title-cover-grave-radio.svg",
+    "bannerImage": "assets/images/title-banner-grave-radio.svg",
+    "shortPitch": "A midnight broadcast from the wrong side of the cemetery fence.",
+    "description": "Grave Radio is a model for moody poster merch, zine drops, and atmosphere-driven fan items.",
+    "officialUrl": "#"
+  }
+]

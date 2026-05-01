@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">GRAVE RADIO</title>
+  <desc id="desc">Title banner · 1600 × 600</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.5" fill="#151118" opacity=".18"/>
+    </pattern>
+    <linearGradient id="wash" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff4f8b" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#24d6d0" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="600" fill="#fff3df"/>
+  <rect width="1600" height="600" fill="url(#dots)"/>
+  <path d="M0 432 C 352 348, 544 528, 928 432 S 1376 312, 1600 396 L 1600 600 L 0 600 Z" fill="url(#wash)" opacity=".92"/>
+  <rect x="88" y="39" width="1424" height="516" rx="21" fill="none" stroke="#151118" stroke-width="7"/>
+  <text x="800" y="282" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="63" fill="#151118" letter-spacing="-3">GRAVE RADIO</text>
+  <text x="800" y="336" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#151118">Title banner · 1600 × 600</text>
+  <text x="800" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#151118" opacity=".72">Replace this SVG with Canva export at same ratio</text>
+</svg>

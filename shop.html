@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <title>Shop | Panelwear Market</title>
+  <meta name="description" content="Browse indie comics merchandise by title, creator, product type, and genre." />
+</head>
+<body data-page="shop">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav shell" aria-label="Primary navigation">
+ <a class="brand brand--image" href="index.html" aria-label="Panelwear Market home">
+  <img src="assets/images/panelwear-logo.svg" alt="Panelwear Market" />
+</a>
+      <button class="nav__toggle" aria-expanded="false" aria-controls="navMenu">
+        <span class="sr-only">Toggle navigation</span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </button>
+      <div class="nav__menu" id="navMenu">
+        <a href="shop.html">Shop</a>
+        <a href="titles.html">Titles</a>
+        <a href="creators.html">Creators</a>
+        <a href="how-it-works.html">How it works</a>
+        <a class="button button--small" href="creator-apply.html">Submit a title</a>
+      </div>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="page-hero shell">
+      <p class="eyebrow">Shop the wall</p>
+      <h1>Merch drops</h1>
+      <p class="lede">Search the prototype catalog by title, creator, tag, or product type. Checkout buttons are placeholders until real Stripe, Shopify, Fourthwall, or POD product links are added.</p>
+    </section>
+
+    <section class="section shell section--tight">
+      <form class="filters" aria-label="Product filters">
+        <label class="field">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Try horror, tee, Neon Gutter, sticker..." />
+        </label>
+        <label class="field">
+          <span>Product type</span>
+          <select id="typeFilter">
+            <option value="all">All products</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>Creator</span>
+          <select id="creatorFilter">
+            <option value="all">All creators</option>
+          </select>
+        </label>
+      </form>
+      <div class="result-meta">
+        <p id="resultCount" aria-live="polite">Loading products...</p>
+        <button class="text-button" id="resetFilters" type="button">Reset filters</button>
+      </div>
+      <div class="product-grid" id="productGrid"></div>
+    </section>
+  </main>
+  <dialog class="modal" id="productModal" aria-labelledby="modalTitle">
+    <button class="modal__close" type="button" aria-label="Close product details">×</button>
+    <div class="modal__body" id="modalBody"></div>
+  </dialog>
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <div>
+<a class="brand brand--image brand--footer" href="index.html">
+  <img src="assets/images/panelwear-logo.svg" alt="Panelwear Market" />
+</a>
+        <p>By comic creators. For comic creator. <br>And looking good doing it.</p>
+      </div>
+      <div>
+        <h2 class="footer-heading">Panelwear Market</h2>
+        <a href="shop.html">Shop merch</a>
+        <a href="titles.html">Browse titles</a>
+        <a href="creator-apply.html">Creator intake</a>
+      </div>
+      <div>
+        <h2 class="footer-heading">Docs</h2>
+        <a href="docs/canva-image-map.md">Canva image map</a>
+        <a href="docs/creator-art-requirements.md">Art requirements</a>
+        <a href="docs/deployment-guide.md">Deployment guide</a>
+      </div>
+    </div>
+  </footer>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

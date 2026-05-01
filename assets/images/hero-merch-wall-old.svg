@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">HERO MERCH WALL</title>
+  <desc id="desc">1600 × 1000 · 16:10</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.5" fill="#151118" opacity=".18"/>
+    </pattern>
+    <linearGradient id="wash" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff4f8b" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#24d6d0" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="#fff3df"/>
+  <rect width="1600" height="1000" fill="url(#dots)"/>
+  <path d="M0 720 C 352 580, 544 880, 928 720 S 1376 520, 1600 660 L 1600 1000 L 0 1000 Z" fill="url(#wash)" opacity=".92"/>
+  <rect x="88" y="65" width="1424" height="860" rx="35" fill="none" stroke="#151118" stroke-width="12"/>
+  <text x="800" y="470" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="105" fill="#151118" letter-spacing="-3">HERO MERCH WALL</text>
+  <text x="800" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#151118">1600 × 1000 · 16:10</text>
+  <text x="800" y="630" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#151118" opacity=".72">Replace this SVG with Canva export at same ratio</text>
+</svg>

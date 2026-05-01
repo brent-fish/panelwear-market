@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">CREATOR PROCESS STRIP</title>
+  <desc id="desc">1600 × 500</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.5" fill="#151118" opacity=".18"/>
+    </pattern>
+    <linearGradient id="wash" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff4f8b" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#24d6d0" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" fill="#fff3df"/>
+  <rect width="1600" height="500" fill="url(#dots)"/>
+  <path d="M0 360 C 352 290, 544 440, 928 360 S 1376 260, 1600 330 L 1600 500 L 0 500 Z" fill="url(#wash)" opacity=".92"/>
+  <rect x="88" y="32" width="1424" height="430" rx="18" fill="none" stroke="#151118" stroke-width="6"/>
+  <text x="800" y="235" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="52" fill="#151118" letter-spacing="-3">CREATOR PROCESS STRIP</text>
+  <text x="800" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#151118">1600 × 500</text>
+  <text x="800" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#151118" opacity=".72">Replace this SVG with Canva export at same ratio</text>
+</svg>

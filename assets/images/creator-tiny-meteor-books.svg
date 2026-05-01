@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">TMB</title>
+  <desc id="desc">Creator avatar · 1:1</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="2.5" fill="#151118" opacity=".18"/>
+    </pattern>
+    <linearGradient id="wash" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff4f8b" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#24d6d0" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="#fff3df"/>
+  <rect width="800" height="800" fill="url(#dots)"/>
+  <path d="M0 576 C 176 464, 272 704, 464 576 S 688 416, 800 528 L 800 800 L 0 800 Z" fill="url(#wash)" opacity=".92"/>
+  <rect x="44" y="52" width="712" height="688" rx="28" fill="none" stroke="#151118" stroke-width="10"/>
+  <text x="400" y="376" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="84" fill="#151118" letter-spacing="-3">TMB</text>
+  <text x="400" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#151118">Creator avatar · 1:1</text>
+  <text x="400" y="504" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#151118" opacity=".72">Replace this SVG with Canva export at same ratio</text>
+</svg>

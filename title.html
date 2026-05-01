@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <title>Title Detail | Panelwear Market</title>
+  <meta name="description" content="A sample title detail page for an independent comic merchandise hub." />
+</head>
+<body data-page="title-detail">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav shell" aria-label="Primary navigation">
+      <a class="brand" href="index.html" aria-label="Panelwear Market home">
+        <span class="brand__mark" aria-hidden="true">PW</span>
+        <span class="brand__text">Panelwear Market</span>
+      </a>
+      <button class="nav__toggle" aria-expanded="false" aria-controls="navMenu">
+        <span class="sr-only">Toggle navigation</span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </button>
+      <div class="nav__menu" id="navMenu">
+        <a href="shop.html">Shop</a>
+        <a href="titles.html">Titles</a>
+        <a href="creators.html">Creators</a>
+        <a href="how-it-works.html">How it works</a>
+        <a class="button button--small" href="creator-apply.html">Submit a title</a>
+      </div>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="title-detail shell" id="titleDetail"></section>
+    <section class="section shell section--tight">
+      <div class="section__heading">
+        <div>
+          <p class="eyebrow">Related drops</p>
+          <h2>Merch from this title</h2>
+        </div>
+      </div>
+      <div class="product-grid" id="relatedProducts"></div>
+    </section>
+  </main>
+  <dialog class="modal" id="productModal" aria-labelledby="modalTitle">
+    <button class="modal__close" type="button" aria-label="Close product details">×</button>
+    <div class="modal__body" id="modalBody"></div>
+  </dialog>
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <div>
+<a class="brand brand--image brand--footer" href="index.html">
+  <img src="assets/images/panelwear-logo.svg" alt="Panelwear Market" />
+</a>
+        <p>By comic creators. For comic creator. <br>And looking good doing it.</p>
+      </div>
+      <div>
+        <h2 class="footer-heading">Panelwear Market</h2>
+        <a href="shop.html">Shop merch</a>
+        <a href="titles.html">Browse titles</a>
+        <a href="creator-apply.html">Creator intake</a>
+      </div>
+      <div>
+        <h2 class="footer-heading">Docs</h2>
+        <a href="docs/canva-image-map.md">Canva image map</a>
+        <a href="docs/creator-art-requirements.md">Art requirements</a>
+        <a href="docs/deployment-guide.md">Deployment guide</a>
+      </div>
+    </div>
+  </footer>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

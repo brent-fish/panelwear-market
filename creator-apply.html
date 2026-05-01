@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <title>Creator Intake | Panelwear Market</title>
+  <meta name="description" content="Submit an independent comic title for merchandise consideration." />
+</head>
+<body data-page="creator-apply">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <nav class="nav shell" aria-label="Primary navigation">
+<a class="brand brand--image" href="index.html" aria-label="Panelwear Market home">
+  <img src="assets/images/panelwear-logo.svg" alt="Panelwear Market" />
+</a>
+      <button class="nav__toggle" aria-expanded="false" aria-controls="navMenu">
+        <span class="sr-only">Toggle navigation</span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </button>
+      <div class="nav__menu" id="navMenu">
+        <a href="shop.html">Shop</a>
+        <a href="titles.html">Titles</a>
+        <a href="creators.html">Creators</a>
+        <a href="how-it-works.html">How it works</a>
+        <a class="button button--small" href="creator-apply.html">Submit a title</a>
+      </div>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="page-hero shell">
+      <p class="eyebrow">Creator intake</p>
+      <h1>Submit a title</h1>
+      <p class="lede">This page is a static scaffold. For GitHub/Cloudflare static hosting, connect it to Tally, Formspree, Airtable Forms, or a future backend.</p>
+    </section>
+
+    <section class="section shell section--tight narrow">
+      <div class="form-note">
+        <strong>Before submitting art:</strong> confirm you own or control the submitted IP and that the files are appropriate for print production.
+        See <a href="docs/creator-art-requirements.md">creator art requirements</a>.
+      </div>
+
+      <form class="intake-form" action="#" method="POST">
+        <div class="form-grid">
+          <label class="field">
+            <span>Creator / publisher name</span>
+            <input name="creator_name" required placeholder="Example: Black Lantern Press" />
+          </label>
+          <label class="field">
+            <span>Contact email</span>
+            <input name="email" type="email" required placeholder="you@example.com" />
+          </label>
+          <label class="field">
+            <span>Comic title / series</span>
+            <input name="title" required placeholder="Example: Neon Gutter" />
+          </label>
+          <label class="field">
+            <span>Primary genre</span>
+            <select name="genre" required>
+              <option value="">Select one</option>
+              <option>Action / Adventure</option>
+              <option>Fantasy</option>
+              <option>Horror</option>
+              <option>Sci-Fi</option>
+              <option>Slice of Life</option>
+              <option>Superhero</option>
+              <option>Other</option>
+            </select>
+          </label>
+        </div>
+        <label class="field">
+          <span>Short title pitch</span>
+          <textarea name="pitch" rows="4" placeholder="One or two sentences fans would understand quickly."></textarea>
+        </label>
+        <label class="field">
+          <span>Merch ideas</span>
+          <textarea name="merch_ideas" rows="4" placeholder="T-shirts, hoodies, prints, sticker packs, convention exclusives, crowdfunding add-ons, etc."></textarea>
+        </label>
+        <label class="field">
+          <span>Artwork link</span>
+          <input name="artwork_link" type="url" placeholder="Google Drive, Dropbox, WeTransfer, or file portal link" />
+        </label>
+        <label class="checkbox">
+          <input name="rights_confirmed" type="checkbox" required />
+          <span>I confirm I own or control the rights needed to submit this art for merchandise production.</span>
+        </label>
+        <label class="checkbox">
+          <input name="quality_confirmed" type="checkbox" required />
+          <span>I understand print-ready files may be required before products can go live.</span>
+        </label>
+        <button class="button" type="submit">Static demo only</button>
+      </form>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <div>
+<a class="brand brand--image brand--footer" href="index.html">
+  <img src="assets/images/panelwear-logo.svg" alt="Panelwear Market" />
+</a>
+        <p>By comic creators. For comic creator. <br>And looking good doing it.</p>
+      </div>
+      <div>
+        <h2 class="footer-heading">Panelwear Market</h2>
+        <a href="shop.html">Shop merch</a>
+        <a href="titles.html">Browse titles</a>
+        <a href="creator-apply.html">Creator intake</a>
+      </div>
+      <div>
+        <h2 class="footer-heading">Docs</h2>
+        <a href="docs/canva-image-map.md">Canva image map</a>
+        <a href="docs/creator-art-requirements.md">Art requirements</a>
+        <a href="docs/deployment-guide.md">Deployment guide</a>
+      </div>
+    </div>
+  </footer>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

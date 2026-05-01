@@ -1,0 +1,47 @@
+[
+  {
+    "id": "brian-level-studio",
+    "name": "Brian Level Studio",
+    "type": "Creator-owned studio",
+    "avatar": "assets/images/creator-brian-level-studio.svg",
+    "location": "Independent comics",
+    "bio": "A creator-focused studio entry used to demonstrate how an individual artist or writer-artist could anchor a title page and merch line.",
+    "website": "#"
+  },
+  {
+    "id": "dauntless-stories",
+    "name": "Dauntless Stories",
+    "type": "Small publisher",
+    "avatar": "assets/images/creator-dauntless-stories.svg",
+    "location": "Independent genre comics",
+    "bio": "Dauntless Stories is an independent comics publisher focused on action-oriented indie comics and graphic novels across sci-fi, fantasy, horror, and related genres.",
+    "website": "https://dauntlessstories.com/"
+  },
+  {
+    "id": "black-lantern-press",
+    "name": "Black Lantern Press",
+    "type": "Small publisher",
+    "avatar": "assets/images/creator-black-lantern-press.svg",
+    "location": "Horror and speculative comics",
+    "bio": "A small-publisher example showing how multiple titles can roll up under one creator/publisher profile.",
+    "website": "#"
+  },
+  {
+    "id": "crowbar-comics",
+    "name": "Crowbar Comics",
+    "type": "Small press imprint",
+    "avatar": "assets/images/creator-crowbar-comics.svg",
+    "location": "Genre comics",
+    "bio": "A rough-edged imprint example designed for darker, pulpier, and convention-friendly merch.",
+    "website": "#"
+  },
+  {
+    "id": "tiny-meteor-books",
+    "name": "Tiny Meteor Books",
+    "type": "Creator collective",
+    "avatar": "assets/images/creator-tiny-meteor-books.svg",
+    "location": "Character-led indie comics",
+    "bio": "A creator collective example that demonstrates how one publisher/creator profile can support several titles.",
+    "website": "#"
+  }
+]
